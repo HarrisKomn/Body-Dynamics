@@ -14,6 +14,10 @@ iii) Create control system for navigation in the virtual space environment.
 ### Task 2
 iv) Simulation of the motion of the 3 bodies using their real parameters (mass, distances, initial conditions).
 
+![Καταγραφή13](https://user-images.githubusercontent.com/43147324/65925005-ac615d00-e3f7-11e9-9c64-d5220f5be0d4.PNG)
+
 v) Simulation of the motion of earth in case of a collision with a random asteroid.
 
 vi) Add all the planets in the simulation.
+
+![Καταγραφή14](https://user-images.githubusercontent.com/43147324/65925007-af5c4d80-e3f7-11e9-9604-2c2705b16c02.PNG)
