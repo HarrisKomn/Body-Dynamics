@@ -1,7 +1,7 @@
 # Body-Dynamics
 ### Task 1
 i) Construct a 3-body system: sun, earth, moon with realistic textures.
-
+![System](https://user-images.githubusercontent.com/43147324/85036472-db3d8000-b18c-11ea-9d03-14827f612881.png)
 ![Καταγραφή9](https://user-images.githubusercontent.com/43147324/65924726-ba62ae00-e3f6-11e9-8c8b-44190f004af4.PNG)
 ![Καταγραφή10](https://user-images.githubusercontent.com/43147324/65924729-bc2c7180-e3f6-11e9-9e9d-e7b2abc04f23.PNG)
 ![Καταγραφή11](https://user-images.githubusercontent.com/43147324/65924731-bdf63500-e3f6-11e9-8cc7-03bdd70e9c41.PNG)
