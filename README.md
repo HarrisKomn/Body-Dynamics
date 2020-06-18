@@ -1,10 +1,7 @@
 # Body-Dynamics
 ### Task 1
 i) Construct a 3-body system: Sun, Earth, Moon with realistic textures:
-![Καταγραφή](https://user-images.githubusercontent.com/43147324/85038759-a54dcb00-b18f-11ea-83ae-2a0f77cae723.JPG)
-![moon](https://user-images.githubusercontent.com/43147324/85038794-ae3e9c80-b18f-11ea-85ff-3cdbce4b333f.JPG)
-![Earth](https://user-images.githubusercontent.com/43147324/85038796-af6fc980-b18f-11ea-96de-720845b4077f.JPG)
-
+![Καταγραφή](https://user-images.githubusercontent.com/43147324/85038759-a54dcb00-b18f-11ea-83ae-2a0f77cae723.JPG){ width=10% }
 
 ii) Animation of the motion of moon and earth according to their real orbits for the next 500 years in fast forward. 
 
