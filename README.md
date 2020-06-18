@@ -6,11 +6,11 @@ i) Construct a 3-body system: Sun, Earth, Moon with realistic textures:
 
 ii) Animation of the motion of moon and earth according to their real orbits for the next 500 years in fast forward:
 
-Please watch video 
+Please watch video: https://github.com/HarrisKomn/Body-Dynamics/blob/master/Animation.mp4
 
 iii) Create control system for navigation in the virtual space environment.
 
-Please watch video
+Please watch video:https://github.com/HarrisKomn/Body-Dynamics/blob/master/Navigation.mp4
 
 ### Task 2
 iv) Simulation of the motion of the 3 bodies using their real parameters (mass, distances, initial conditions).
