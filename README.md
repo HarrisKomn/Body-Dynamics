@@ -2,9 +2,7 @@
 ### Task 1
 i) Construct a 3-body system: Sun, Earth, Moon with realistic textures:
 
-<img src="https://user-images.githubusercontent.com/43147324/85038759-a54dcb00-b18f-11ea-83ae-2a0f77cae723.JPG" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/43147324/85038996-ecd45700-b18f-11ea-9d53-f5f58ff81a23.JPG" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/43147324/85039001-ee058400-b18f-11ea-9758-56ef8b2cd9c4.JPG" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/43147324/85038759-a54dcb00-b18f-11ea-83ae-2a0f77cae723.JPG" width="30%" height="30%"> <img src="https://user-images.githubusercontent.com/43147324/85038996-ecd45700-b18f-11ea-9d53-f5f58ff81a23.JPG" width="30%" height="30%"> <img src="https://user-images.githubusercontent.com/43147324/85039001-ee058400-b18f-11ea-9758-56ef8b2cd9c4.JPG" width="30%" height="30%">
 
 ii) Animation of the motion of moon and earth according to their real orbits for the next 500 years in fast forward. 
 
