@@ -28,11 +28,11 @@ vi) Extend the 3 Body Problem to a crucial nine-body problem including all the m
 Please watch video:
 
 
-Application Keys:
-Q -> Animation Task
-T -> Simulation (3 Body) Task
-C -> Collision
-N -> Simulation (9 Body) Task
-R -> Reset planet positions
-z -> Run/Continue Animation/Simulation
-x -> Stop Animation/Simulation
+Application Keys:\
+Q -> Animation Task\
+T -> Simulation (3 Body) Task\
+C -> Collision\
+N -> Simulation (9 Body) Task\
+R -> Reset planet positions\
+z -> Run/Continue Animation/Simulation\
+x -> Stop Animation/Simulation\
