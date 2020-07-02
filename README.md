@@ -17,7 +17,7 @@ iv) Simulation of motion of the three body system according to the Newton’s la
 
 ![Καταγραφή13](https://user-images.githubusercontent.com/43147324/65925005-ac615d00-e3f7-11e9-9c64-d5220f5be0d4.PNG)
 
-Please watch video:
+Please watch video: https://github.com/HarrisKomn/Body-Dynamics/blob/master/Simulation.mp4
 
 v) Simulation of the motion of earth after collision with a random (defined by the user) asteroid:
 Please watch video:
