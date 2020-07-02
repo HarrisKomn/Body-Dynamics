@@ -20,7 +20,8 @@ iv) Simulation of motion of the three body system according to the Newton’s la
 Please watch video: https://github.com/HarrisKomn/Body-Dynamics/blob/master/Simulation.mp4
 
 v) Simulation of the motion of earth after collision with a random (defined by the user) asteroid:
-Please watch video:
+
+Please watch video: https://github.com/HarrisKomn/Body-Dynamics/blob/master/Collision.mp4
 
 vi) Extend the 3 Body Problem to a crucial nine-body problem including all the main planets:
 
