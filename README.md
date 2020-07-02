@@ -16,6 +16,7 @@ Please watch video: https://github.com/HarrisKomn/Body-Dynamics/blob/master/Navi
 iv) Simulation of motion of the three body system according to the Newton’s law of Universal Gravitation and the real planet characteristics (mass, distances, initial conditions):
 
 ![Καταγραφή13](https://user-images.githubusercontent.com/43147324/65925005-ac615d00-e3f7-11e9-9c64-d5220f5be0d4.PNG)
+
 Please watch video:
 
 v) Simulation of the motion of earth after collision with a random (defined by the user) asteroid:
@@ -35,4 +36,4 @@ C -> Collision\
 N -> Simulation (9 Body) Task\
 R -> Reset planet positions\
 z -> Run/Continue Animation/Simulation\
-x -> Stop Animation/Simulation\
+x -> Stop Animation/Simulation
